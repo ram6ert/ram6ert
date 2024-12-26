@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ram6ert
 - 📫 Contact with me via [rambert@isle.cafe](mailto:rambert@isle.cafe)
+- 🌐 Have a look at my blog [Isle Café](https://isle.cafe)
 
 <!---
 ram6ert/ram6ert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
